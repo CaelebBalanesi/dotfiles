@@ -1,3 +1,9 @@
 theme = "monokai_pro"
 [editor]
 true-color = true
+
+[keys.insert]
+up = "no_op"
+down = "no_op"
+left = "no_op"
+right = "no_op"
